@@ -23,6 +23,40 @@
         "id": "https://schmidag.github.io/sandbox/camille/canvas-1/canvas",
         "type": "Canvas",
         "duration": 304.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://schmidag.github.io/sandbox/annotations/camille-canvas-1-description.json",
+            "label": {
+              "none": ["Description"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://schmidag.github.io/sandbox/annotations/camille-canvas-1-events.json",
+            "label": {
+              "none": ["Events"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://schmidag.github.io/sandbox/annotations/camille-canvas-1-visuals.json",
+            "label": {
+              "none": ["Visuals"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://schmidag.github.io/sandbox/annotations/camille-canvas-1-characters.json",
+            "label": {
+              "none": ["Characters"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://schmidag.github.io/sandbox/camille/canvas-1/paintings",
